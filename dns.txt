@@ -2,7 +2,7 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-21 16:29:00（北京时间）
+! Version: 2024-06-21 17:01:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 48034
 ||*.diwodiwo.xyz^
