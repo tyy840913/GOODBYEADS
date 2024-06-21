@@ -1,23 +1,5 @@
 <div align="center">
-<h1 align="center">GOODBYEADS<br>一个强力去广告的规则</h1>
-<p>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/last-commit/8680/GOODBYEADS?style=flat-square" alt="last update" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/forks/8680/GOODBYEADS?style=flat-square" alt="forks" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/stars/8680/GOODBYEADS?style=flat-square" alt="stars" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS/issues/">
-    <img src="https://img.shields.io/github/issues/8680/GOODBYEADS?style=flat-square" alt="open issues" />
-  </a>
-  <a href="https://github.com/8680/GOODBYEADS">
-    <img src="https://img.shields.io/github/license/8680/GOODBYEADS?style=flat-square" alt="license" />
-  </a>
-</p>
-
+<h1 align="center">NOT-AD<br>一个强力去广告的规则</h1>
 <h4>
     <a href="#a">规则订阅</a>
   <span> · </span>
