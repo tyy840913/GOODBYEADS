@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Title: GOODBYEADS
-! Homepage: https://github.com/8680/GOODBYEADS
+! Title: NOT-AD
+! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-21 12:27:57（北京时间）
+! Version: 2024-06-21 15:21:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 4297
+! Total count: 4298
 @@-social-bar.$domain=mobi.yahoo.com
 @@.2o7.net/$domain=today.com
 @@.adserver.$domain=litv.tv
@@ -595,6 +595,7 @@
 @@||asadcdn.com/adlib/$domain=computerbild.de
 @@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
 @@||asadcdn.com/assets/video/$domain=computerbild.de
+@@||asia-*.inside-graph.com^$domain=lenovo.com
 @@||assbbs.com^$generichide
 @@||asset.pagefair.com/measure.min.js$domain=www.gamespot.com
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
