@@ -2,7 +2,7 @@
 <h1 align="center">NOT-AD<br>个人自用规则</h1>
 </div>
 
-<h2 id="a">🎯 规则订阅</h2>
+<h2 id="a">🎯 规则详情</h2>
 
 ```
 更新时间: 2024-06-21 17:01:55 （北京时间） 
@@ -12,7 +12,7 @@ DNS拦截规则数量: 48034
 白名单规则数量: 4289 
 ``` 
 <details open>
-<summary>规则列表</summary>
+<summary>规则订阅列表</summary>
 <ul>
 
 - **[拦截规则（Github）](https://raw.githubusercontent.com/tyy840913/NOT-AD/master/rules.txt)**
