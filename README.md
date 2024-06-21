@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">NOT-AD<br>自用规则</h1>
+<h1 align="center">NOT-AD<br>个人自用规则</h1>
 </div>
 
 <h2 id="a">🎯 规则订阅</h2>
