@@ -15,15 +15,12 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt" #基础过滤器
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt" #AdGuard中文过滤器
-  "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则
-  "https://easylist-downloads.adblockplus.org/easylist.txt" #EasyList
+  "http://rssv.cn/adguard/api.php?type=dns"
+  "http://rssv.cn/adguard/api.php?type=host" "https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt"
+  "https://cdn.jsdelivr.net/gh/Silentely/AdBlock-Acceleration/ds_hosts.txt"  
+  "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则  
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
-  "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载提示规则
-  "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock" #d3ward规则
-  "https://small.oisd.nl/" #oisd规则
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt" #秋风规则
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt" #CJX's Annoyance List
