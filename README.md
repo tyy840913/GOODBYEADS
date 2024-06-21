@@ -15,12 +15,12 @@ DNS拦截规则数量: 48171
 <summary>规则列表</summary>
 <ul>
 
-- **[拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)**
-- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt)**
-- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt)**
-- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt)**
-- **[白名单（Github）](https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt)**
-- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt)**
+- **[拦截规则（Github）](https://raw.githubusercontent.com/tyy840913/NOT-AD/master/rules.txt)**
+- **[拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/tyy840913/NOT-AD/master/rules.txt)**
+- **[DNS拦截规则（Github）](https://raw.githubusercontent.com/tyy840913/NOT-AD/master/dns.txt)**
+- **[DNS拦截规则(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/tyy840913/NOT-AD/master/dns.txt)**
+- **[白名单（Github）](https://raw.githubusercontent.com/tyy840913/NOT-AD/master/allow.txt)**
+- **[白名单(Ghproxy-国内加速)](https://mirror.ghproxy.com/raw.githubusercontent.com/tyy840913/NOT-AD/master/allow.txt)**
 
 </ul>
 </details>
