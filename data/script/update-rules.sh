@@ -15,10 +15,10 @@ cd tmp
 
 echo '下载规则'
 rules=(
-  "http://rssv.cn/adguard/api.php?type=dns"
-  "http://rssv.cn/adguard/api.php?type=host"
-  "https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt"
-  "https://cdn.jsdelivr.net/gh/Silentely/AdBlock-Acceleration/ds_hosts.txt"  
+  "http://rssv.cn/adguard/api.php?type=dns" #晴雅DNS规则
+  "http://rssv.cn/adguard/api.php?type=host" #晴雅HOST规则
+  "https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt" #ADGK手机规则
+  "https://cdn.jsdelivr.net/gh/Silentely/AdBlock-Acceleration/ds_hosts.txt"  #大圣净化
   "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则  
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt" #EasyPrivacy隐私保护规则
