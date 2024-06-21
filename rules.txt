@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-22 01:07:16（北京时间）
+! Version: 2024-06-22 07:12:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83141
+! Total count: 83147
 
  
   
@@ -35625,6 +35625,7 @@ zzzyk.com###Tinfo
 ||cyber-tracking.att.com^
 ||cyber.boozallen.com^
 ||cyberanalytics.nl^$third-party
+||cycvyo.xyz^
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cyf9.destinia.cl^
@@ -47061,6 +47062,7 @@ zzzyk.com###Tinfo
 ||isksss.top^
 ||isky.ltd/skin/js/ad.js
 ||islbaho.top^
+||ismuwcm.icu^
 ||isna.top^
 ||isnd.top^
 ||isoffss.com^
@@ -57228,6 +57230,7 @@ zzzyk.com###Tinfo
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||njenlz.cn^
 ||njhvalu.cn^
+||njjavt.xyz^
 ||njnlih.realitatea.net^
 ||njogejt.icu^
 ||njppuaj.cn^
@@ -63549,6 +63552,7 @@ zzzyk.com###Tinfo
 ||scripts21.com^$third-party
 ||scriptsgratuits.com/sg/stats/
 ||scriptshead.com^$third-party
+||scru.cn^
 ||scrvw3.com^
 ||scs.allsecur.nl^
 ||scs.arcteryx.com^
@@ -63665,6 +63669,7 @@ zzzyk.com###Tinfo
 ||sdnc.top^
 ||sdo.com/static/image/mkads/
 ||sdome.underarmour.co.jp^
+||sdoshbb.top^
 ||sdownload.stargame.com^
 ||sdpimt.lostgolfballs.com^
 ||sdqoi2d.com^$third-party
@@ -82449,6 +82454,7 @@ zzzyk.com###Tinfo
 ||yzfrapd.xyz^
 ||yzgbsg.xyz^
 ||yzgid.cn^
+||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
 ||yzllux.xyz^

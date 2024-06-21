@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-22 01:07:16（北京时间）
+! Version: 2024-06-22 07:12:52（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48038
+! Total count: 48044
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -11076,6 +11076,7 @@
 ||cyber-pages.att.com^
 ||cyber-tracking.att.com^
 ||cyber.boozallen.com^
+||cycvyo.xyz^
 ||cyf9.destinia.cl^
 ||cyohmj.catawiki.com^
 ||cyq3noz.icu^
@@ -19509,6 +19510,7 @@
 ||isjoui.cainz.com^
 ||isksss.top^
 ||islbaho.top^
+||ismuwcm.icu^
 ||isna.top^
 ||isnd.top^
 ||isoffss.com^
@@ -27479,6 +27481,7 @@
 ||nj.t.bcsp2p.baidu.com^
 ||njenlz.cn^
 ||njhvalu.cn^
+||njjavt.xyz^
 ||njnlih.realitatea.net^
 ||njogejt.icu^
 ||njppuaj.cn^
@@ -32015,6 +32018,7 @@
 ||script-sh.d2cdm.jp^
 ||script.ac^
 ||scripts.psyma.com^
+||scru.cn^
 ||scrvw3.com^
 ||scs.allsecur.nl^
 ||scs.arcteryx.com^
@@ -32106,6 +32110,7 @@
 ||sdlmhb.com^
 ||sdnc.top^
 ||sdome.underarmour.co.jp^
+||sdoshbb.top^
 ||sdownload.stargame.com^
 ||sdpimt.lostgolfballs.com^
 ||sdrive.skoda-auto.com^
@@ -47592,6 +47597,7 @@
 ||yzfrapd.xyz^
 ||yzgbsg.xyz^
 ||yzgid.cn^
+||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
 ||yzllux.xyz^
