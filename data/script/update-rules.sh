@@ -16,7 +16,8 @@ cd tmp
 echo '下载规则'
 rules=(
   "http://rssv.cn/adguard/api.php?type=dns"
-  "http://rssv.cn/adguard/api.php?type=host" "https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt"
+  "http://rssv.cn/adguard/api.php?type=host"
+  "https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt"
   "https://cdn.jsdelivr.net/gh/Silentely/AdBlock-Acceleration/ds_hosts.txt"  
   "https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt" #Tv规则  
   "https://easylist-downloads.adblockplus.org/easylistchina.txt" #EasyList China
