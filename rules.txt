@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-21 21:53:31（北京时间）
+! Version: 2024-06-22 01:07:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83137
+! Total count: 83141
 
  
   
@@ -20854,6 +20854,7 @@ zzzyk.com###Tinfo
 ||13sqw.com/js/foot.js
 ||13txt.net/js/ssgdd.
 ||141h.com/data/attachment/noblock/cf/
+||1438976156.recolution.de^
 ||147ad.com^$third-party
 ||14fa20230523.live^
 ||150075.com^
@@ -38016,6 +38017,7 @@ zzzyk.com###Tinfo
 ||dup.baidustatic.com^
 ||duprelogistics.actonservice.com^
 ||durationmedia.net^$third-party
+||durchsichtig.xyz^
 ||durst-group.actonservice.com^
 ||durynslg.xyz^
 ||dutils.com^
@@ -64764,6 +64766,7 @@ zzzyk.com###Tinfo
 ||shinystat.com^$third-party
 ||shinystat.it^$third-party
 ||shipostrich.com^
+||shipping.jp/raa/rd.js
 ||shippinginsights.com^$third-party
 ||shipsmarter.idrivelogistics.com^
 ||shise.me^
@@ -78617,6 +78620,7 @@ zzzyk.com###Tinfo
 ||vpn-access.site^$third-party
 ||vpon.com^
 ||vppst.iltrovatore.it^
+||vppzjv.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
 ||vprza.com^$third-party
