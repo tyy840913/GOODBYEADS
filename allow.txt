@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-21 16:18:57（北京时间）
+! Version: 2024-06-21 16:29:00（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 4298
+! Total count: 4289
 @@-social-bar.$domain=mobi.yahoo.com
 @@.2o7.net/$domain=today.com
 @@.adserver.$domain=litv.tv
@@ -2401,10 +2401,6 @@
 @@||haoweichi.com/Public/js/ads.js
 @@||harvard.edu/scripts/ga_social_tracking.js
 @@||hb.improvedigital.com/pbw/headerlift.min.js$domain=spielen.com
-@@||hbbtv.kika.de^
-@@||hbbtv.prosieben.de^
-@@||hbbtv.redbutton.de^
-@@||hbbtv.zdf.de^
 @@||hboav.com/guga/ads.js
 @@||hboav.com/guga/images/20201021.jpg
 @@||hboav.com/js/wlfloat.js
@@ -2558,7 +2554,6 @@
 @@||inews.gtimg.com^
 @@||info.seek.com/b/ss/$image,domain=seek.com.au
 @@||infojobs.com.br/mf-publicarea/_content/InfoJobs.Microfrontend.Components/js/smarttag.js
-@@||infolink.pavv.co.kr^
 @@||ing-diba.de^*/sitestat.js
 @@||ing.blueconic.net^$domain=ing.jobs
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=core.app|orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
@@ -2910,10 +2905,6 @@
 @@||metrics.ticketmaster.com/b/ss/$image
 @@||metrics.torproject.org^
 @@||metrics.us.playstation.com/b/ss/
-@@||mhc-ajax-eu-s2.myhomescreen.tv^
-@@||mhc-ajax-eu.myhomescreen.tv^
-@@||mhc-xpana-eu-s2.myhomescreen.tv^
-@@||mhc-xpana-eu.myhomescreen.tv^
 @@||mhxk.com^*/main/entry.common.$script
 @@||mi.cn^
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
