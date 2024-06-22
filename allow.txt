@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-22 08:27:10（北京时间）
+! Version: 2024-06-22 16:06:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 4290
+! Total count: 4291
 @@-social-bar.$domain=mobi.yahoo.com
 @@.2o7.net/$domain=today.com
 @@.adserver.$domain=litv.tv
@@ -2381,6 +2381,7 @@
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||guim.co.uk/flash/video/embedded/player-$object,domain=thedailywh.at
 @@||guinnessworldrecords.jp/ezais/analytics$~third-party
+@@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
