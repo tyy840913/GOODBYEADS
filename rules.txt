@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-22 16:06:59（北京时间）
+! Version: 2024-06-23 00:00:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83150
+! Total count: 83176
 
  
   
@@ -18674,6 +18674,7 @@ theworld.cn##.download-now
 thinbug.com###inktokad
 thinkphp.cn##.a6
 thmz.com###floatdivids
+thwiki.cc###a-carousel
 thwiki.cc##.on-right > .swiper-container
 thzx.cc###fwin_content_imc_attachad > .f_c > div > div:first-child
 thzx.cc##style + div[style="margin-bottom:5px"]
@@ -26277,6 +26278,8 @@ zzzyk.com###Tinfo
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-a8.www.zeiri4.com^
 ||ad-api.cnblogs.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
 ||ad-ebis.bookpass.auone.jp^
@@ -26312,6 +26315,7 @@ zzzyk.com###Tinfo
 ||ad.bwton.com^
 ||ad.byfuh.com^
 ||ad.ccement.com^
+||ad.cctv.com^
 ||ad.cdnjm.cn^
 ||ad.cyapi.cn^
 ||ad.daum.net^
@@ -26598,6 +26602,7 @@ zzzyk.com###Tinfo
 ||adgocoo.com^$third-party
 ||adgomob.com^
 ||adgreed.com^$third-party
+||adguanggao.eee114.com^
 ||adguard.com/-/event/
 ||adhai.com^
 ||adheart.de^$third-party
@@ -26646,6 +26651,7 @@ zzzyk.com###Tinfo
 ||adm.beimg.com^
 ||adm.cloud.cnfol.com^
 ||adm.cnzz.net^$third-party
+||adm.funshion.com^
 ||adm24.de/hp_counter/$third-party
 ||admaimai.com/inc/adv
 ||admaji.com^
@@ -27001,6 +27007,7 @@ zzzyk.com###Tinfo
 ||adv.
 ||adv.app.qq.com^
 ||adv.drtuber.com^
+||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advalo.com^$third-party
@@ -27057,6 +27064,7 @@ zzzyk.com###Tinfo
 ||adx-ad.smart-tv.cn^
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
+||adx-open-service.youku.com^
 ||adx.
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -27076,6 +27084,7 @@ zzzyk.com###Tinfo
 ||adxpand.com^
 ||adxpansion.com^
 ||adxquare.com^
+||adxserver.ad.cmvideo.cn^
 ||adxvip.com^$third-party
 ||adxxx.com^
 ||adxxx.info^
@@ -28440,6 +28449,7 @@ zzzyk.com###Tinfo
 ||android.rqd.qq.com^
 ||android.txtsmarter.com^
 ||androidfilehost.com/libs/otf/stats.otf.php?
+||andrqd.play.aiseet.atianqi.com^
 ||andyhoppe.com/count/
 ||andyhoppe.com^$third-party
 ||anei.tv^$third-party
@@ -33004,6 +33014,7 @@ zzzyk.com###Tinfo
 ||ccsshn137.shop^
 ||cctime.com/UpLoadFile/201*.gif
 ||cctrkom.creditcards.com^
+||cctv.adsunion.com^
 ||cctv.com/Library/a2.js
 ||cctv5.name/data/js/
 ||cctv5.name/images/js/indextop.js
@@ -35588,6 +35599,7 @@ zzzyk.com###Tinfo
 ||cwiuhtp.icu^
 ||cwpush.com^
 ||cwrxgb.icu^
+||cws-cctv.conviva.com^
 ||cws.conviva.com^
 ||cwsgbekun.xyz^
 ||cwssfg632.shop^
@@ -42052,6 +42064,8 @@ zzzyk.com###Tinfo
 ||ggwan.com^$third-party,domain=~linghit.com
 ||ggx.cmvideo.cn^
 ||ggx0001.com^
+||ggx01.miguvideo.com^
+||ggx03.miguvideo.com^
 ||ggxt.net^
 ||ggxt.net^$third-party
 ||ggxwb.miguvideo.com^
@@ -51366,6 +51380,7 @@ zzzyk.com###Tinfo
 ||m.acmgloballab.com^
 ||m.aecrimecentral.com^
 ||m.aetv.com^
+||m.atm.youku.com^
 ||m.aty.sohu.com^
 ||m.autohome.com.cn/news/mar_usersee/acti/usee.html?-
 ||m.baidu.com/cpro.php$third-party
@@ -55939,6 +55954,7 @@ zzzyk.com###Tinfo
 ||mobile.campushoy.com/*/ad^
 ||mobile.campushoy.com/v3/modelView/get/new^
 ||mobile.clickastro.com^
+||mobile.da.mgtv.com^
 ||mobile.dat.com^
 ||mobile.etiquetaunica.com.br^
 ||mobile.everytap.com^
@@ -57949,6 +57965,7 @@ zzzyk.com###Tinfo
 ||ometrics.wb.com^
 ||omgcreative.actonservice.com^
 ||omgid.qq.com^
+||omgmta.play.aiseet.atianqi.com^
 ||omgmta.play.ott.video.qq.com^
 ||omgmta.qq.com^
 ||omgmta1.qq.com^
@@ -58528,6 +58545,7 @@ zzzyk.com###Tinfo
 ||othanasis.openapp.link^
 ||other.v.duowan.com^
 ||otheve.beacon.qq.com^
+||otheve.play.aiseet.atianqi.com^
 ||othisf.tagomago.pl^
 ||othstr.beacon.qq.com^
 ||otienlk.top^
@@ -58655,6 +58673,7 @@ zzzyk.com###Tinfo
 ||oyuwkbk.top^
 ||oyyqan.hejoscar.dk^
 ||oyysbc.xyz^
+||ozdq.cn^
 ||ozhmig.cn^
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
@@ -58733,6 +58752,7 @@ zzzyk.com###Tinfo
 ||p1-be-endcard.pglstatp-toutiao.com^
 ||p1-be-pack-sign.pglstatp-toutiao.com^
 ||p1-lm.adkwai.com^
+||p1.360soucha.com^
 ||p1.chinakaoyan.com^
 ||p1.danskebank.co.uk^
 ||p1.danskebank.dk^
@@ -63634,6 +63654,7 @@ zzzyk.com###Tinfo
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.beizi.biz^
 ||sdk.birdeatsbug.com^$third-party
+||sdk.cferw.com^
 ||sdk.conf.igexin.com^
 ||sdk.duihuashijie.com^
 ||sdk.duihuashijie.com^$app=com.biquge.ebook.app
@@ -73161,6 +73182,7 @@ zzzyk.com###Tinfo
 ||ten.sngapm.qq.com^
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
 ||tencent-cloud.com/s9m1/54cb71aff82cfd690619065f2e31c346.
+||tencent-dtv.m.cn.miaozhen.com^
 ||tencent.com/developer/api/common/getAds
 ||tencent.com/developer/api/common/getOneAds
 ||tencentmind.com^
@@ -78299,6 +78321,7 @@ zzzyk.com###Tinfo
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||videa.hu/flvplayer_setcookie.php?
 ||video-ad-stats.googlesyndication.com^
+||video-ad.sm.cn^
 ||video-analytics-api.cloudinary.com^
 ||video-cdn.net/event?
 ||video-dsp.pddpic.com^
@@ -81255,6 +81278,7 @@ zzzyk.com###Tinfo
 ||xiaohuishu.top^
 ||xiaoma.com/kf.php?arg=
 ||xiaoma.com/xiaoma/www/js/article_right
+||xiaomi-dtv.m.cn.miaozhen.com^
 ||xiaomi.com/js/mstr.js?
 ||xiaopi.com/api.php?op=get_p&
 ||xiaopi.com/statics/new_js/15.js
@@ -82035,6 +82059,7 @@ zzzyk.com###Tinfo
 ||yjxssk.apartments.com^
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
+||yk-ssp.ad.youku.com^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykbei.com^
@@ -82135,6 +82160,7 @@ zzzyk.com###Tinfo
 ||youivr.com/image/*-960x80
 ||youjizzlive.com/api/metrics
 ||youkewangluo.cn^$third-party,script
+||youku-acs.m.taobao.com^
 ||youku-crm-product.youku.com^
 ||youku.com/dress/
 ||youku.com/log/

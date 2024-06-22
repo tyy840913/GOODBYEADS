@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-22 16:06:59（北京时间）
+! Version: 2024-06-23 00:00:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48046
+! Total count: 48071
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -4647,6 +4647,8 @@
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-a8.www.zeiri4.com^
 ||ad-api.cnblogs.com^
+||ad-cache.dopool.com^
+||ad-cdn.qingting.fm^
 ||ad-cmp.hismarttv.com^
 ||ad-download.hismarttv.com^
 ||ad-ebis.bookpass.auone.jp^
@@ -4675,6 +4677,7 @@
 ||ad.bwton.com^
 ||ad.byfuh.com^
 ||ad.ccement.com^
+||ad.cctv.com^
 ||ad.cdnjm.cn^
 ||ad.cyapi.cn^
 ||ad.daum.net^
@@ -4907,6 +4910,7 @@
 ||adgeo.163.com^
 ||adglare.net^
 ||adgomob.com^
+||adguanggao.eee114.com^
 ||adhai.com^
 ||adhudg.nec-lavie.jp^
 ||adi*.cnool.net^
@@ -4942,6 +4946,7 @@
 ||adm.adminstrumentengineering.com.au^
 ||adm.beimg.com^
 ||adm.cloud.cnfol.com^
+||adm.funshion.com^
 ||admaji.com^
 ||admarket.mobi^
 ||admarvel.com^
@@ -5212,6 +5217,7 @@
 ||adv-sv-stat.focus.cn^
 ||adv.app.qq.com^
 ||adv.drtuber.com^
+||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advancedsolutions.actonservice.com^
@@ -5248,6 +5254,7 @@
 ||adx-ad.smart-tv.cn^
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
+||adx-open-service.youku.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
 ||adx.mala.cn^
@@ -5262,6 +5269,7 @@
 ||adxpand.com^
 ||adxpansion.com^
 ||adxquare.com^
+||adxserver.ad.cmvideo.cn^
 ||adxxx.com^
 ||adxxx.info^
 ||adxzju.penti.com^
@@ -6222,6 +6230,7 @@
 ||android.bugly.qq.com^
 ||android.rqd.qq.com^
 ||android.txtsmarter.com^
+||andrqd.play.aiseet.atianqi.com^
 ||anet.abphotos.link^
 ||anews7.nvwu.com^
 ||angebote.plex.com^
@@ -9445,6 +9454,7 @@
 ||ccs.umeng.com^
 ||ccsshn137.shop^
 ||cctrkom.creditcards.com^
+||cctv.adsunion.com^
 ||ccwxma.xyz^
 ||ccztgy.elgiganten.dk^
 ||cd.chemistanddruggist.co.uk^
@@ -11044,6 +11054,7 @@
 ||cwiuhtp.icu^
 ||cwpush.com^
 ||cwrxgb.icu^
+||cws-cctv.conviva.com^
 ||cws.conviva.com^
 ||cwsgbekun.xyz^
 ||cwssfg632.shop^
@@ -15840,6 +15851,8 @@
 ||ggw.watertu.com^
 ||ggx.cmvideo.cn^
 ||ggx0001.com^
+||ggx01.miguvideo.com^
+||ggx03.miguvideo.com^
 ||ggxt.net^
 ||ggxwb.miguvideo.com^
 ||gh.vsee.me^
@@ -22637,6 +22650,7 @@
 ||m.acmgloballab.com^
 ||m.aecrimecentral.com^
 ||m.aetv.com^
+||m.atm.youku.com^
 ||m.aty.sohu.com^
 ||m.bell.ca^
 ||m.biduo.cc^
@@ -26731,6 +26745,7 @@
 ||mobile.campushoy.com/*/ad^
 ||mobile.campushoy.com/v3/modelView/get/new^
 ||mobile.clickastro.com^
+||mobile.da.mgtv.com^
 ||mobile.dat.com^
 ||mobile.etiquetaunica.com.br^
 ||mobile.everytap.com^
@@ -28040,6 +28055,7 @@
 ||ometrics.wb.com^
 ||omgcreative.actonservice.com^
 ||omgid.qq.com^
+||omgmta.play.aiseet.atianqi.com^
 ||omgmta.play.ott.video.qq.com^
 ||omgmta.qq.com^
 ||omgmta1.qq.com^
@@ -28486,6 +28502,7 @@
 ||othanasis.openapp.link^
 ||other.v.duowan.com^
 ||otheve.beacon.qq.com^
+||otheve.play.aiseet.atianqi.com^
 ||othisf.tagomago.pl^
 ||othstr.beacon.qq.com^
 ||otienlk.top^
@@ -28577,6 +28594,7 @@
 ||oyuwkbk.top^
 ||oyyqan.hejoscar.dk^
 ||oyysbc.xyz^
+||ozdq.cn^
 ||ozhmig.cn^
 ||ozkbdxdu.icu^
 ||ozkkuy.fabianafilippi.com^
@@ -28641,6 +28659,7 @@
 ||p1-be-endcard.pglstatp-toutiao.com^
 ||p1-be-pack-sign.pglstatp-toutiao.com^
 ||p1-lm.adkwai.com^
+||p1.360soucha.com^
 ||p1.chinakaoyan.com^
 ||p1.danskebank.co.uk^
 ||p1.danskebank.dk^
@@ -32086,6 +32105,7 @@
 ||sdk.api.bjshcw.com^
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.beizi.biz^
+||sdk.cferw.com^
 ||sdk.conf.igexin.com^
 ||sdk.duihuashijie.com^
 ||sdk.e.qq.com^
@@ -40375,6 +40395,7 @@
 ||temp.twicomi.com^
 ||temsys.temsys.fr^
 ||ten.sngapm.qq.com^
+||tencent-dtv.m.cn.miaozhen.com^
 ||tencentmind.com^
 ||tenddata.com^
 ||tengointernet.actonservice.com^
@@ -44665,6 +44686,7 @@
 ||vibber.download^
 ||victoriajumpc.com^
 ||video-ad-stats.googlesyndication.com^
+||video-ad.sm.cn^
 ||video-analytics-api.cloudinary.com^
 ||video-dsp.pddpic.com^
 ||video.bzfd.it^
@@ -46798,6 +46820,7 @@
 ||xiaohei.com^
 ||xiaohuangshu.me^
 ||xiaohuishu.top^
+||xiaomi-dtv.m.cn.miaozhen.com^
 ||xiaopinwo.com^
 ||xiaoshuoyun.cn^
 ||xiaosss.ren^
@@ -47310,6 +47333,7 @@
 ||yjtag.yahoo.co.jp^
 ||yjxssk.apartments.com^
 ||yjxzvqy.xyz^
+||yk-ssp.ad.youku.com^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykbei.com^
@@ -47385,6 +47409,7 @@
 ||youborafds01.com^
 ||youboranqs01.com^
 ||youday.cn^
+||youku-acs.m.taobao.com^
 ||youku-crm-product.youku.com^
 ||youle55.com^
 ||youmi.net^
