@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-23 16:00:31（北京时间）
+! Version: 2024-06-24 00:00:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48079
+! Total count: 48083
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -17394,6 +17394,7 @@
 ||hst2-invite.ander.ai^
 ||hstats.askmiso.com^
 ||hstats.hepsiburada.com^
+||hstatstest.hepsiburada.com^
 ||hstbrt.xyz^
 ||hsutav.icu^
 ||hsvchnsvncvvd.com^
@@ -22944,6 +22945,7 @@
 ||map.rockwellautomation.com^
 ||mapi.m.jd.com/ksdk/updlist.json^
 ||mapi.m.jd.com^
+||mapixl.com^
 ||mapp.biryanibykilo.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
@@ -26455,6 +26457,7 @@
 ||mgid.com^
 ||mgidskix.top^
 ||mgixgn.wittchen.com^
+||mgln.ai^
 ||mgmuye.xyz^
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||mgogo.com^
@@ -29157,6 +29160,7 @@
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
 ||pixel.cpex.cz^
+||pixel.driveniq.com^
 ||pixel.dugwood.com^
 ||pixel.europapress.net^
 ||pixel.facebook.com^
