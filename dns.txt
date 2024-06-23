@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-23 00:00:49（北京时间）
+! Version: 2024-06-23 08:30:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48071
+! Total count: 48077
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -8509,6 +8509,7 @@
 ||blau-subdomain.b.information.blau.de^
 ||blava.viessmann.sk^
 ||blavity.black.news^
+||blciqbk.icu^
 ||bldr.mkt.samsung.com^
 ||ble.ubm-licensing.com^
 ||bleumzr.icu^
@@ -13387,6 +13388,7 @@
 ||edm.healthroundtable.org^
 ||edm.neoslife.com.au^
 ||ednqjm.magnanni.com^
+||edoshbw.top^
 ||edpsmart.edpcomunicacao.com.br^
 ||edriving.actonservice.com^
 ||edtrainingcenter.actonservice.com^
@@ -27977,6 +27979,7 @@
 ||ojvpigx.xyz^
 ||ojvxtz.junonline.jp^
 ||ok8867s.com^
+||okagcw.xyz^
 ||okbd2ou.icu^
 ||okead.com^
 ||okkkk.com^
@@ -31604,6 +31607,7 @@
 ||saec-metrics.base.be^
 ||saec-metrics.telenet.be^
 ||saegissolutions.actonservice.com^
+||saeo.cn^
 ||safdirect.actonservice.com^
 ||safepass.citizen.com^
 ||safetravelsapp.progressive.com^
@@ -39938,6 +39942,7 @@
 ||talk.stitch.cam^
 ||talkingdata.com^
 ||tally.bizanalyst.in^
+||talyrt.xyz^
 ||tamedbc.roska.fr^
 ||tamus.net.anwalt.de^
 ||tangchaohes.cn^
@@ -44918,6 +44923,7 @@
 ||vswswlz.icu^
 ||vszzzj.xyz^
 ||vt.mak.com^
+||vtlyrj.xyz^
 ||vtneexam.quantresear.ch^
 ||vtnmxx.xyz^
 ||vtrtl.de^

@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-23 00:00:49（北京时间）
+! Version: 2024-06-23 08:30:28（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83176
+! Total count: 83177
 
  
   
@@ -2377,21 +2377,12 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 .zippingcare.com/beacon/$image
 .zone/ads/
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
-/*-ad-*.byteimg.com/
-/*-ad-sign.byteimg.com/
-/*-ad.sm.cn/
-/*-ad.video.yximgs.com/
-/*-ad.wtzw.com/
-/*-be-pack-sign.pglstatp-toutiao.com/
-/*-lm.adkwai.com/
-/*-normal-lq.zijieapi.com/
 /*.*.shouji.sogou.com/
-/*.*skwai.com/
+/*.[a-zA-Z0-9.-]skwai.com/
 /*.a.market.xiaomi.com/
 /*.data.hicloud.com/
 /*.log.aliyuncs.com/
 /*.shouji.sogou.com/
-/*.zskwai.com/
 /*AdapterNew.
 /.webscale/rum?
 /.well-known/shopify/monorail
@@ -2652,6 +2643,14 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /WebStat2.asmx
 /Web_JS_Stats.js
 /[0-9]{1,2}\/[0-9]{5,6}\.js/$script,third-party
+/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
+/[a-zA-Z0-9.-]*-ad.sm.cn/
+/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
+/[a-zA-Z0-9.-]*-ad.wtzw.com/
+/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
+/[a-zA-Z0-9.-]*-lm.adkwai.com/
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
+/[a-zA-Z0-9.-]*-normal.zijieapi.com/
 /[a-z]+\d+\.cnzz\./
 /\(com\?\d+/$third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
@@ -2815,8 +2814,6 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /adready.s
 /adright*
 /adrotator.
-/ads*-normal-*.zijieapi.com/
-/ads*-normal.zijieapi.com/
 /ads-
 /ads/*.js^
 /ads_
@@ -3372,9 +3369,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /clientele/reports/*
 /clientlib-analytics-core.
 /clientstat?
-/cloud-inject-global.oss-cn-hongkong.aliyuncs.com/
-/cloudinject*-dev.*.*-*-*.amazonaws.com/
-/cloudinject*-dev.s3.ap-northoreast-1.amazonaws.com/
+/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 /cls/check.php?$image
 /cls_report?
 /clys.js?2020
@@ -31647,6 +31642,7 @@ zzzyk.com###Tinfo
 ||blau-subdomain.b.information.blau.de^
 ||blava.viessmann.sk^
 ||blavity.black.news^
+||blciqbk.icu^
 ||bldr.mkt.samsung.com^
 ||ble.ubm-licensing.com^
 ||blend.com/event/
@@ -38690,6 +38686,7 @@ zzzyk.com###Tinfo
 ||edmontonchina.*/pic/
 ||ednqjm.magnanni.com^
 ||edococounter.de^$third-party
+||edoshbw.top^
 ||edpsmart.edpcomunicacao.com.br^
 ||edriving.actonservice.com^
 ||edrone.me/trace?
@@ -57864,6 +57861,7 @@ zzzyk.com###Tinfo
 ||ojvxtz.junonline.jp^
 ||ok.ru/dk?cmd=videoStatNew
 ||ok8867s.com^
+||okagcw.xyz^
 ||okbd2ou.icu^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
@@ -63043,6 +63041,7 @@ zzzyk.com###Tinfo
 ||saec-metrics.base.be^
 ||saec-metrics.telenet.be^
 ||saegissolutions.actonservice.com^
+||saeo.cn^
 ||safdirect.actonservice.com^
 ||safe-click.net^$third-party
 ||safe-iplay.com/logger
@@ -72623,6 +72622,7 @@ zzzyk.com###Tinfo
 ||talkingdata.com^*/sdk_release.js
 ||tally.bizanalyst.in^
 ||talpa-analytics.com^$third-party
+||talyrt.xyz^
 ||tamedbc.roska.fr^
 ||tamedia.com.tw^$third-party
 ||tamgrt.com^$third-party
@@ -78717,6 +78717,7 @@ zzzyk.com###Tinfo
 ||vszzzj.xyz^
 ||vt.mak.com^
 ||vtex.com.br/rc/rc.js
+||vtlyrj.xyz^
 ||vtneexam.quantresear.ch^
 ||vtnmxx.xyz^
 ||vtracker.net^$third-party
