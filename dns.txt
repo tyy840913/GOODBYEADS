@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-24 00:00:43（北京时间）
+! Version: 2024-06-24 08:29:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48083
+! Total count: 48092
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -693,6 +693,7 @@
 ||6604.org^
 ||661291.com^
 ||6613167.cn^
+||663008888.com^
 ||66308888.com^
 ||6651tp.com^
 ||6665kkk.com/ggvip^
@@ -7732,6 +7733,7 @@
 ||awuapj.landwatch.com^
 ||awunkse72.shop^
 ||awuvcq.xyz^
+||awyuge.xyz^
 ||awzddev.cn^
 ||ax.*.ifeng.com^
 ||ax.babe.today^
@@ -8438,6 +8440,7 @@
 ||biquwx.la/9So4kwt2^
 ||birgga.top^
 ||birglucy.xyz^
+||birtw.cn^
 ||bis8j.com^
 ||bisko.mall.tv^
 ||bison.actonservice.com^
@@ -11923,6 +11926,7 @@
 ||ddllhqj.xyz^
 ||ddlvpmt.xyz^
 ||ddmfrg.modivo.bg^
+||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
 ||ddpaowanji.com^
 ||ddqkqq.com^
@@ -15029,6 +15033,7 @@
 ||fmfnrf.xyz^
 ||fmild.xyz^
 ||fmjgtp.dentalspeed.com^
+||fmjjvb.xyz^
 ||fmpjka.moroccanoil.com^
 ||fmqidg.letras.com^
 ||fmqidg.letras.mus.br^
@@ -44022,6 +44027,7 @@
 ||ueg.cc^
 ||uejnmjdpd.xyz^
 ||uekmhvbb.xyz^
+||uessnah.icu^
 ||uestat.video.qiyi.com^
 ||ueumdkc.cn^
 ||ueuqui.esprit.nl^
@@ -44421,6 +44427,7 @@
 ||uurykr.pizzahut.com.mx^
 ||uurzdr.global-style.jp^
 ||uusimaa.viessmann.fi^
+||uutytp.com^
 ||uuuutp.com^
 ||uuuzuu.xyz^
 ||uuvzmba.cn^
@@ -45009,6 +45016,7 @@
 ||w.l.qq.com^
 ||w.uohz.cn^
 ||w.xiaopiaoyou.com^
+||w0057.com^
 ||w07.xyz^
 ||w1.askwai.com^
 ||w1.bskwai.com^
@@ -45227,6 +45235,7 @@
 ||wdcigo.xyz^
 ||wddsva0.com^
 ||wdnyom.faces.com^
+||wdoshbe.top^
 ||wdukge.midwayusa.com^
 ||we-love-privacy.humane.club^
 ||we.care.oswegohealth.org^
