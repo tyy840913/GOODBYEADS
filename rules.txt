@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-24 08:29:49（北京时间）
+! Version: 2024-06-24 16:00:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83197
+! Total count: 83198
 
  
   
@@ -51414,6 +51414,7 @@ zzzyk.com###Tinfo
 ||m.chenhuixsb.com/js/foot.js
 ||m.chenhuixsb.com/js/hfz.js
 ||m.chinawmrc.com/az.js
+||m.clear.link/cpr/external/track
 ||m.client.10010.com/finderInterface^
 ||m.client.10010.com/mobileService/customer/accountListData.htm
 ||m.client.10010.com/small_video/myLiveList^
