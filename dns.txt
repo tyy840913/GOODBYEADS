@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-24 16:00:51（北京时间）
+! Version: 2024-06-25 00:06:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48092
+! Total count: 48097
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -732,6 +732,7 @@
 ||6iwoif.com^
 ||6nwp0r33a71m.app.dev.cardahealth.com^
 ||6pal.consobaby.com^
+||6pznpz.com^
 ||6slb0.cyou^
 ||6swu.cpa-france.org^
 ||6uc.cc^
@@ -8029,6 +8030,8 @@
 ||baifen.music.baidu.com^
 ||baifendian.com^
 ||baihuiad.com^
+||baijs02.xyz^
+||baijs03.xyz^
 ||baike.biz^
 ||baimuyuan.com.cn^
 ||bairenad.com^
@@ -12759,6 +12762,7 @@
 ||doudouguo.com^
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doumob.com^
 ||doupuer.com^
 ||down.qq.com/iedsafe^
@@ -16571,6 +16575,7 @@
 ||goods.tudou.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
+||google-js-01.xyz^
 ||googleads.g.doubleclick.net.iberostar.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^

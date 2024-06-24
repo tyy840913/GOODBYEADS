@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-24 16:00:51（北京时间）
+! Version: 2024-06-25 00:06:38（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83198
+! Total count: 83202
 
  
   
@@ -21999,6 +21999,7 @@ zzzyk.com###Tinfo
 ||6pan.cc/ps/vip.jpg
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
+||6pznpz.com^
 ||6rooms.com/$image,domain=~6.cn
 ||6sc.co^$third-party
 ||6slb0.cyou^
@@ -27464,7 +27465,6 @@ zzzyk.com###Tinfo
 ||alfeza.vueling.com^
 ||algolia.io/1/events?
 ||algolia.io/1/isalive
-||algolia.net/1/isalive?
 ||algopine.com^$third-party
 ||algrcr.sandro-paris.com^
 ||alhi.actonservice.com^
@@ -30822,6 +30822,8 @@ zzzyk.com###Tinfo
 ||baifendian.com^$third-party
 ||baihuiad.com^
 ||baihuwang.com^$third-party
+||baijs02.xyz^
+||baijs03.xyz^
 ||baikalize.com^$third-party
 ||baike.baidu.com/*/directad?$xhr
 ||baike.baidu.com/api/wikiad/
@@ -37755,6 +37757,7 @@ zzzyk.com###Tinfo
 ||douguo.net/upload/post/d/
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doumob.com^
 ||doupapa.com/js/autoclose.js
 ||doupuer.com^
@@ -42910,6 +42913,7 @@ zzzyk.com###Tinfo
 ||google-analytics.com/analytics.js$domain=spiegel.de
 ||google-analytics.com^
 ||google-analytics.com^$third-party
+||google-js-01.xyz^
 ||google.*/url?$ping
 ||google.com*/pagead
 ||google.com.hk^$domain=p4vip.com
