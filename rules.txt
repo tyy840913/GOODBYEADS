@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-26 08:27:45（北京时间）
+! Version: 2024-06-26 16:00:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83218
+! Total count: 83220
 
  
   
@@ -35772,7 +35772,6 @@ zzzyk.com###Tinfo
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1ad.com^
-||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
@@ -38105,6 +38104,7 @@ zzzyk.com###Tinfo
 ||dxaop.bcbsla.com^
 ||dxb.to/logger/
 ||dxe2.heip.fr^
+||dxfidr.xyz^
 ||dxg*.com/img/A*.js
 ||dxg*.top/img/A*.js
 ||dxg0070.top/img/
@@ -46889,6 +46889,7 @@ zzzyk.com###Tinfo
 ||io.piupiu.io^
 ||io1g.net^$third-party
 ||ioactiveinc.actonservice.com^
+||ioaiqp.top^
 ||ioam.de^$domain=autobild.de|spiegel.de
 ||ioam.de^$third-party
 ||iob.imgur.com^
@@ -61339,6 +61340,7 @@ zzzyk.com###Tinfo
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerBanner/
 ||qygxrh.vandykes.com^
+||qyisloy.top^
 ||qymjpg.star-tex.ru^
 ||qyn6.ofertastelecable.es^
 ||qyogcr.amscope.com^
