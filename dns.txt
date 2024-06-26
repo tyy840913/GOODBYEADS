@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-26 00:00:44（北京时间）
+! Version: 2024-06-26 08:27:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48109
+! Total count: 48114
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -5415,6 +5415,7 @@
 ||aiiaqw.xyz^
 ||aijiamao.top^
 ||aikhra.londonclub.sk^
+||aiknx.cn^
 ||aikrir.lcwaikiki.com^
 ||ailla.abphotos.link^
 ||ainu.intel.de^
@@ -15372,6 +15373,7 @@
 ||fvuitt.alibabuy.com^
 ||fvvyjd.jtv.com^
 ||fvxlhn.xyz^
+||fvyqblc.icu^
 ||fw.qq.com^
 ||fwcnex.icu^
 ||fweia.xyz^
@@ -22614,6 +22616,7 @@
 ||lxoemc.buonissimo.it^
 ||lxoemc.libero.it^
 ||lxoemc.tuttocitta.it^
+||lxryhx.xyz^
 ||lxsway.alltforforaldrar.se^
 ||lxsway.blogg.se^
 ||lxsway.brollopstorget.se^
@@ -40310,6 +40313,7 @@
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdor-smetrics.td.com^
+||tdoshbi.top^
 ||tdoup.com^
 ||tdp1.vivabox.es^
 ||tds1.vivabox.be^
@@ -47323,6 +47327,7 @@
 ||yhtpsy8888.cc^
 ||yhuamf.ktronix.com^
 ||yhubsxmg.xyz^
+||yhutou.xyz^
 ||yhvewh.aboutyou.ro^
 ||yhzjidgc.xyz^
 ||yhzm.cc^

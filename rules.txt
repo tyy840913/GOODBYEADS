@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-26 00:00:44（北京时间）
+! Version: 2024-06-26 08:27:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83213
+! Total count: 83218
 
  
   
@@ -27309,6 +27309,7 @@ zzzyk.com###Tinfo
 ||aiiaqw.xyz^
 ||aijiamao.top^
 ||aikhra.londonclub.sk^
+||aiknx.cn^
 ||aikrir.lcwaikiki.com^
 ||aili.com^$third-party
 ||ailla.abphotos.link^
@@ -41349,6 +41350,7 @@ zzzyk.com###Tinfo
 ||fvuitt.alibabuy.com^
 ||fvvyjd.jtv.com^
 ||fvxlhn.xyz^
+||fvyqblc.icu^
 ||fw-ad.jp^$third-party
 ||fw.qq.com^
 ||fw.tv/embed/impressions
@@ -51313,6 +51315,7 @@ zzzyk.com###Tinfo
 ||lxoemc.buonissimo.it^
 ||lxoemc.libero.it^
 ||lxoemc.tuttocitta.it^
+||lxryhx.xyz^
 ||lxsway.alltforforaldrar.se^
 ||lxsway.blogg.se^
 ||lxsway.brollopstorget.se^
@@ -73067,6 +73070,7 @@ zzzyk.com###Tinfo
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdor-smetrics.td.com^
+||tdoshbi.top^
 ||tdoup.com^
 ||tdp1.vivabox.es^
 ||tds.io^$third-party
@@ -81998,6 +82002,7 @@ zzzyk.com###Tinfo
 ||yhtpsy8888.cc^
 ||yhuamf.ktronix.com^
 ||yhubsxmg.xyz^
+||yhutou.xyz^
 ||yhvewh.aboutyou.ro^
 ||yhzjidgc.xyz^
 ||yhzm.cc^
