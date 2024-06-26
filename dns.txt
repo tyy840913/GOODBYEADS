@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-26 16:00:45（北京时间）
+! Version: 2024-06-27 00:00:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48116
+! Total count: 48119
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -5665,6 +5665,7 @@
 ||analytics-proxy.springboard.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics-secure.dollargeneral.com^
+||analytics-server.arras.cx^
 ||analytics-sg.tiktok.com^
 ||analytics-ssl.allconnect.com^
 ||analytics-ssl.bradyid.com^
@@ -27222,6 +27223,7 @@
 ||n7181.com^
 ||na-pages.husqvarna.com^
 ||na.groupondata.com^
+||na06.cn^
 ||na7.cc^
 ||naanalle.pl^
 ||nabucuo.com^
@@ -40626,6 +40628,7 @@
 ||thraka.openapp.link^
 ||threrlak.com^
 ||thrive.metagenics.com^
+||thruudrad.com^
 ||thtk.temu.com^
 ||thumbs.net.anwalt.de^
 ||thvx9i.icu^
