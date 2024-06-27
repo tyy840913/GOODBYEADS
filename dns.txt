@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-27 08:28:03（北京时间）
+! Version: 2024-06-27 16:01:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48124
+! Total count: 48126
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -171,7 +171,6 @@
 ||102d.pandasuite.io^
 ||106.15.205.174/api^
 ||107.150.50.34^
-||107.167.16.14^
 ||109.123.233.251^
 ||10ro53kulyb.groove.so^
 ||10stepswp.advancedtech.com^
@@ -710,7 +709,6 @@
 ||6696q.com^
 ||66jo.societegenerale.fr^
 ||66wen.com^
-||67.21.92.163^
 ||6711.com^
 ||671c.pandasuite.io^
 ||6788787.com^
@@ -29233,6 +29231,7 @@
 ||pizzaexpress.openapp.link^
 ||pizzaromea.openapp.link^
 ||pjbncv.ode.co.kr^
+||pjdthz.xyz^
 ||pjgaez.autouncle.at^
 ||pjh7.us.chantelle.com^
 ||pjogndc8ixoidna.360doc.cn^
@@ -39422,6 +39421,7 @@
 ||szbzp.cn^
 ||szdgl.cn^
 ||szdpk.cn^
+||szdtf.cn^
 ||szdxw.cn^
 ||szdzn.cn^
 ||szfmr.cn^
@@ -43896,6 +43896,7 @@
 ||tycxhgrp.xyz^
 ||tydd.hunterwish.cn^
 ||tydzfldt.xyz^
+||tyisloi.top^
 ||tykor.net^
 ||tymahuxv.xyz^
 ||tyodot.icu^
@@ -47560,6 +47561,7 @@
 ||ytcxflak.xyz^
 ||ytezym.xyz^
 ||ytjzqde.xyz^
+||ytoeyxz.icu^
 ||ytouvy.arezzo.com.br^
 ||ytqeavc.icu^
 ||ytunion.com^

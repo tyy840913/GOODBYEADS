@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-27 08:28:03（北京时间）
+! Version: 2024-06-27 16:01:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83234
+! Total count: 83238
 
  
   
@@ -20732,7 +20732,7 @@ zzzyk.com###Tinfo
 ||106.15.205.174/api^
 ||107.149.18.1/j/*.js$domain=6161bb.com
 ||107.150.50.34^
-||107.167.16.14^
+||107.167.16.*.gif
 ||107788.com^$third-party
 ||109.123.233.251^
 ||109.169.66.161^$third-party,domain=~adult-site.ip
@@ -21966,7 +21966,7 @@ zzzyk.com###Tinfo
 ||66wz.com/eap/
 ||66ys.cc/d/$script,document
 ||66zhuang.com/public_2017/js/count-gou.js
-||67.21.92.163^
+||67.21.92.*.gif
 ||6711.com^
 ||671c.pandasuite.io^
 ||6788787.com^
@@ -59659,6 +59659,7 @@ zzzyk.com###Tinfo
 ||pjatr.com^$third-party
 ||pjbncv.ode.co.kr^
 ||pjcn.org^$third-party
+||pjdthz.xyz^
 ||pjgaez.autouncle.at^
 ||pjh7.us.chantelle.com^
 ||pji.nu/libs/pjpixel/
@@ -72038,6 +72039,7 @@ zzzyk.com###Tinfo
 ||szbzp.cn^
 ||szdgl.cn^
 ||szdpk.cn^
+||szdtf.cn^
 ||szdxw.cn^
 ||szdzn.cn^
 ||szfcol.com/images/wxright240.jpg
@@ -77278,6 +77280,7 @@ zzzyk.com###Tinfo
 ||tycxhgrp.xyz^
 ||tydd.hunterwish.cn^
 ||tydzfldt.xyz^
+||tyisloi.top^
 ||tykor.net^
 ||tymahuxv.xyz^
 ||tyodot.icu^
@@ -82375,6 +82378,7 @@ zzzyk.com###Tinfo
 ||ytezym.xyz^
 ||ytjzqde.xyz^
 ||ytn.co.kr/_comm/ylog.php?
+||ytoeyxz.icu^
 ||ytouvy.arezzo.com.br^
 ||ytqeavc.icu^
 ||ytse*.top/Static/Home/GongGao/img/
