@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-27 16:01:49（北京时间）
+! Version: 2024-06-28 00:00:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48126
+! Total count: 48127
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -44925,6 +44925,7 @@
 ||vqbidy.benetton.com^
 ||vqbzpv.xyz^
 ||vqjacf.mauriziocollectionstore.com^
+||vqlwoy.xyz^
 ||vqp3.madeindesign.co.uk^
 ||vqvuid.kobetsu.co.jp^
 ||vqxlbd.billyreid.com^
