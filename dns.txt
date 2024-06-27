@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-27 00:00:59（北京时间）
+! Version: 2024-06-27 08:28:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48119
+! Total count: 48124
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -13459,6 +13459,7 @@
 ||efgam.actonservice.com^
 ||efgh.5lu.com^
 ||efglbp.baur.de^
+||efhis.cn^
 ||efjsliw.top^
 ||efm.verintsystemsinc.com^
 ||efmtsw.xyz^
@@ -15916,6 +15917,7 @@
 ||gjmovc.epapoutsia.gr^
 ||gjmqqq.com^
 ||gjtclx.strefatenisa.com.pl^
+||gjwxy.cn^
 ||gk.gkservices.com^
 ||gk.sina.cn^
 ||gk1.582582.com^
@@ -21079,6 +21081,7 @@
 ||lhotajl.icu^
 ||lhp-mortgage.loanzify.com^
 ||lhtnuop.xyz^
+||lhtzfn.xyz^
 ||lhzulh.tribeamrapali.com^
 ||lhzxbp.xyz^
 ||li.rtl2.de^
@@ -39020,6 +39023,7 @@
 ||sts.papyrs.com^
 ||sts.tour-europe.org^
 ||stscs.ditzo.nl^
+||stsesc.xyz^
 ||stt.bupa.com.au^
 ||stt.cpaaustralia.com.au^
 ||stt.deakin.edu.au^
@@ -44034,6 +44038,7 @@
 ||udkpcc.xyz^
 ||udmmdl.dudalina.com.br^
 ||udonjl.coopdeli.jp^
+||udoshbt.top^
 ||udpdmeb.cn^
 ||udr9.livera.nl^
 ||udrvvx.kabum.com.br^

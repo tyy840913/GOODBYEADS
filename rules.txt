@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-27 00:00:59（北京时间）
+! Version: 2024-06-27 08:28:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83229
+! Total count: 83234
 
  
   
@@ -38785,6 +38785,7 @@ zzzyk.com###Tinfo
 ||efgam.actonservice.com^
 ||efgh.5lu.com^
 ||efglbp.baur.de^
+||efhis.cn^
 ||efjsliw.top^
 ||efm.verintsystemsinc.com^
 ||efmtsw.xyz^
@@ -42159,6 +42160,7 @@ zzzyk.com###Tinfo
 ||gjmqqq.com^
 ||gjtclx.strefatenisa.com.pl^
 ||gjwind.com/xxmh.gif
+||gjwxy.cn^
 ||gk.gkservices.com^
 ||gk.sina.cn^
 ||gk1.582582.com^
@@ -49483,6 +49485,7 @@ zzzyk.com###Tinfo
 ||lhotajl.icu^
 ||lhp-mortgage.loanzify.com^
 ||lhtnuop.xyz^
+||lhtzfn.xyz^
 ||lhzulh.tribeamrapali.com^
 ||lhzxbp.xyz^
 ||li.rtl2.de^
@@ -71526,6 +71529,7 @@ zzzyk.com###Tinfo
 ||sts.papyrs.com^
 ||sts.tour-europe.org^
 ||stscs.ditzo.nl^
+||stsesc.xyz^
 ||stt.bupa.com.au^
 ||stt.cpaaustralia.com.au^
 ||stt.deakin.edu.au^
@@ -77466,6 +77470,7 @@ zzzyk.com###Tinfo
 ||udn.com/common2/iframe/
 ||udn.com^*/ad/
 ||udonjl.coopdeli.jp^
+||udoshbt.top^
 ||udpdmeb.cn^
 ||udr9.livera.nl^
 ||udrvvx.kabum.com.br^
