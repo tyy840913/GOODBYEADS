@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">NOT-AD<br>个人自用规则<br>规则两小时更新一次,非常频繁，实际上没什么卵用</h1>
+<h1 align="center">NOT-AD<br>个人自用规则<br>规则8：00，20：00各更新一次</h1>
 </div>
 
 <h2 id="a">🎯 规则详情</h2>
