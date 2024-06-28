@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-28 00:00:51（北京时间）
+! Version: 2024-06-28 08:29:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83238
+! Total count: 83245
 
  
   
@@ -13167,6 +13167,7 @@ dahe.cn###adsg
 dahe.cn##div#ad_img,div#adsg
 dailiantong.com##.appDwn
 dailyfx.com.hk##.home-banner,.right-banner,.adSlot
+dailygh.com###video_fade
 dailymotion.com#@#.ad_box
 dailynews.sina.com##.TopNav + table
 daizhuzai.com##.myad_wrap,.adsbygoogle
@@ -19412,6 +19413,7 @@ wpdaxue.com##div.gggtop,div.home-ggg430,div.ggpost-below,div.ggg-shortcode,.adve
 wpjam.com###wpjam_blog_300x250_1
 wrating.com
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 wszhibo.com##.ads_block,#rightAD,#leftAD
 wuchajian.net##.UPAD,.TopAD,.headAD,[class^="TextAd"]
@@ -40754,6 +40756,7 @@ zzzyk.com###Tinfo
 ||fkupm8697t19.eyevolution.de^
 ||fkwc.sfr.fr^
 ||fkxlsc.fenix-store.com^
+||fkxs.net/tops/
 ||fl5dpe.oui.sncf^
 ||fl6n.com/adtop/
 ||flagcounter.com^$third-party
@@ -42169,6 +42172,7 @@ zzzyk.com###Tinfo
 ||gkfdkf.jdsports.co.uk^
 ||gkjmev3.com^
 ||gkktjf.top^
+||gklox.cn^
 ||gkopqp.coccodrillo.eu^
 ||gksqdt.reitmans.com^
 ||gksqfw.reverso.net^
@@ -53575,6 +53579,7 @@ zzzyk.com###Tinfo
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
+||mdoshbx.top^
 ||mdotm.com^
 ||mdqpkdne.xyz^
 ||mds.ricoh-europe.com^
@@ -62264,6 +62269,7 @@ zzzyk.com###Tinfo
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||rmhfrtnd.com^$third-party
 ||rmhoffman.actonservice.com^
+||rmioswx.icu^
 ||rmipoz.com/dp.js
 ||rmnsdh.xyz^
 ||rmp4.destinia.uy^
@@ -76995,6 +77001,7 @@ zzzyk.com###Tinfo
 ||trustpilot.com/stats/
 ||trustutn.org^
 ||trvonu.k-manga.jp^
+||trvxbd.xyz^
 ||trwl1.com/ascripts/gcrt.js
 ||trx-cdn.zip.co^
 ||trx-hub.com^$image

@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-28 00:00:51（北京时间）
+! Version: 2024-06-28 08:29:03（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48127
+! Total count: 48131
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -15924,6 +15924,7 @@
 ||gkfdkf.jdsports.co.uk^
 ||gkjmev3.com^
 ||gkktjf.top^
+||gklox.cn^
 ||gkopqp.coccodrillo.eu^
 ||gksqdt.reitmans.com^
 ||gksqfw.reverso.net^
@@ -24615,6 +24616,7 @@
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdm.hibinobi-mandom.jp^
+||mdoshbx.top^
 ||mdotm.com^
 ||mdqpkdne.xyz^
 ||mds.ricoh-europe.com^
@@ -30948,6 +30950,7 @@
 ||rmdvca.belvilla.de^
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||rmhoffman.actonservice.com^
+||rmioswx.icu^
 ||rmnsdh.xyz^
 ||rmp4.destinia.uy^
 ||rmpad.imtt.qq.com^
@@ -43711,6 +43714,7 @@
 ||trustisimportant.fun^
 ||trustutn.org^
 ||trvonu.k-manga.jp^
+||trvxbd.xyz^
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||trx3.famousfix.com^
