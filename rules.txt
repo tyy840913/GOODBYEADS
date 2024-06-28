@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-28 16:00:59（北京时间）
+! Version: 2024-06-28 22:14:55（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83245
+! Total count: 83252
 
  
   
@@ -21781,6 +21781,7 @@ zzzyk.com###Tinfo
 ||555bbb333bbb.com^
 ||555bbb555www.com^
 ||555bbb777www.com^
+||555ppp777ppp.com^
 ||555x.org/Public/m/script/common.js
 ||5588.tv/js/piaofuImg.js
 ||559gp.com^
@@ -21949,6 +21950,7 @@ zzzyk.com###Tinfo
 ||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666bbb888www.com^
+||666ppp222ppp.com^
 ||6677648.reddoorz.com^
 ||668080.cc^
 ||668559.com^
@@ -23204,6 +23206,7 @@ zzzyk.com###Tinfo
 ||a19609.actonservice.com^
 ||a19612.actonservice.com^
 ||a19615.actonservice.com^
+||a1bw2cup.top^
 ||a1webstrategy.com^
 ||a2.avomeen.com^
 ||a2.b310.com^
@@ -33292,6 +33295,7 @@ zzzyk.com###Tinfo
 ||checkout.com/logger/
 ||checkout.com/logging
 ||checkpointcharlie.heizung.de^
+||checkreferrer.io^$third-party
 ||checkru.net^$third-party
 ||checkstat.nl^$third-party
 ||cheer.cjoy.com.cn^
@@ -64590,6 +64594,7 @@ zzzyk.com###Tinfo
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sf*-ttcdn-tos.pstatp.com/img/web.business.image^
+||sf-insights.io^
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
 ||sf-test.groc.press^
 ||sf.groc.press^
@@ -71978,6 +71983,7 @@ zzzyk.com###Tinfo
 ||sxjfhh.vcstar.com^
 ||sxjfhh.visaliatimesdelta.com^
 ||sxjkc.cn^
+||sxlmggx12.com^
 ||sxmxpm.nectarsleep.com^
 ||sxoejoc.icu^
 ||sxp.allianz.de^
@@ -78063,6 +78069,7 @@ zzzyk.com###Tinfo
 ||uyan.cc/$third-party
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
+||uyislot.top^
 ||uyivht.robertgraham.us^
 ||uylodc.ecosa.com.au^
 ||uym11.xyz^
