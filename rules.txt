@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-29 04:17:33（北京时间）
+! Version: 2024-06-29 16:09:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83252
+! Total count: 83268
 
  
   
@@ -5719,6 +5719,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /tongji.js
 /topad*
 /toplytics.js
+/tops/fmt.js?v=
 /toptip.js*
 /touchclarity/logging.js
 /tourl.html?url=
@@ -21857,6 +21858,7 @@ zzzyk.com###Tinfo
 ||5fz.cc/t/aimg/tao
 ||5gg17gm.com^
 ||5ggj5cp.com^
+||5gxs.org^
 ||5icool.org/uploadfile/poster/
 ||5idxw.com^
 ||5ilinglei.com/gg.html
@@ -26614,6 +26616,7 @@ zzzyk.com###Tinfo
 ||adheart.de^$third-party
 ||adhslx.com^$third-party
 ||adhudg.nec-lavie.jp^
+||adhvz.cn^
 ||adi*.cnool.net^
 ||adi.ni.com^
 ||adim.pinduoduo.com^
@@ -30981,6 +30984,7 @@ zzzyk.com###Tinfo
 ||bbvms.com/zone/js/zonestats.js
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bbxyxt.xyz^
 ||bbybqq.levi.co.id^
 ||bbyfsfo.cn^
 ||bc.geocities.
@@ -33706,6 +33710,9 @@ zzzyk.com###Tinfo
 ||clickguardian.co.uk^$third-party
 ||clicki.cn^
 ||clicki.cn^$third-party
+||clickiocdn.com/clickiotag_log/
+||clickiocdn.com/consent/log/
+||clickiocdn.com/utr/
 ||clickmanage.com^$third-party
 ||clickmap.ch^$third-party
 ||clickmatic.pl^$third-party
@@ -48491,6 +48498,7 @@ zzzyk.com###Tinfo
 ||kfqizu.cn^
 ||kftfhp.furusato-tax.jp^
 ||kfvjdvjzhddhc.com^
+||kfycmiu.icu^
 ||kgbokc.masrefacciones.mx^
 ||kgcyvd.com^
 ||kgdyoh.icu^
@@ -48731,6 +48739,7 @@ zzzyk.com###Tinfo
 ||koowo.com^
 ||kopde.xyz^
 ||kopsil.com^$third-party
+||kopvx.cn^
 ||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||kostenlose-counter.com^$third-party
@@ -49231,6 +49240,7 @@ zzzyk.com###Tinfo
 ||ldjnbn.xyz^
 ||ldlc.com/V4px/js/ldlcmachine.js
 ||ldnlyap.com^
+||ldoshbl.top^
 ||ldqtdd.peing.net^
 ||ldv.midoplay.com^
 ||ldvalc.manzara.cz^
@@ -56736,6 +56746,7 @@ zzzyk.com###Tinfo
 ||n2.hk/promo/
 ||n26-trusted.n26.com^
 ||n2faw.site^
+||n2wqmr4lmaummar.xyz^
 ||n3567.com^
 ||n4kb43cl2bsw.creatordrop.com^
 ||n522rv1.cn^
@@ -60824,6 +60835,7 @@ zzzyk.com###Tinfo
 ||qdvavs.trademax.se^
 ||qdzyspjx.com^
 ||qedlai.restplatzboerse.com^
+||qeedaa.xyz^
 ||qejjhnq.cn^
 ||qerpks.rollei.de^
 ||qescaen.com^
@@ -61692,6 +61704,7 @@ zzzyk.com###Tinfo
 ||recruit.go.apprenticeshipcommunity.com.au^
 ||recruitics.com^$third-party
 ||recruiting.dukekunshan.edu.cn^
+||recs-api.conde.digital^
 ||recs.richrelevance.com/rrserver/api/engage/trackExperienceEvent?
 ||recs.shareaholic.com^
 ||recsys-crawl.4paradigm.com^
@@ -72048,6 +72061,7 @@ zzzyk.com###Tinfo
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szddm.cn^
 ||szdgl.cn^
 ||szdpk.cn^
 ||szdtf.cn^
@@ -78803,6 +78817,7 @@ zzzyk.com###Tinfo
 ||vujzkkz.cn^
 ||vungle.com^
 ||vupload.duowan.com^
+||vupsnx.xyz^
 ||vutjnt.xyz^
 ||vuukle.com/bq-publish?
 ||vuukle.com/getGeo
@@ -81598,6 +81613,7 @@ zzzyk.com###Tinfo
 ||xrdqdd.xyz^
 ||xrkyqq.com^
 ||xrllybr.xyz^
+||xrmfjzqo.xyz^
 ||xrnyhc.arumdri.co.kr^
 ||xrnyhc.welltimes.co.kr^
 ||xrrhwgj.xyz^

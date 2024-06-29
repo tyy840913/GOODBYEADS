@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-29 04:17:33（北京时间）
+! Version: 2024-06-29 16:09:35（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48137
+! Total count: 48149
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -648,6 +648,7 @@
 ||5fm.985fm.ca^
 ||5gg17gm.com^
 ||5ggj5cp.com^
+||5gxs.org^
 ||5idxw.com^
 ||5ip9.com^
 ||5j.com^
@@ -4917,6 +4918,7 @@
 ||adguanggao.eee114.com^
 ||adhai.com^
 ||adhudg.nec-lavie.jp^
+||adhvz.cn^
 ||adi*.cnool.net^
 ||adi.ni.com^
 ||adim.pinduoduo.com^
@@ -8105,6 +8107,7 @@
 ||bbuni.com^
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bbxyxt.xyz^
 ||bbybqq.levi.co.id^
 ||bbyfsfo.cn^
 ||bc.law.com^
@@ -20415,6 +20418,7 @@
 ||kfqizu.cn^
 ||kftfhp.furusato-tax.jp^
 ||kfvjdvjzhddhc.com^
+||kfycmiu.icu^
 ||kgbokc.masrefacciones.mx^
 ||kgcyvd.com^
 ||kgdyoh.icu^
@@ -20571,6 +20575,7 @@
 ||kongjiiee.info^
 ||koowo.com^
 ||kopde.xyz^
+||kopvx.cn^
 ||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||kotopoulathanasis.openapp.link^
@@ -20927,6 +20932,7 @@
 ||ldjhlqr.cn^
 ||ldjnbn.xyz^
 ||ldnlyap.com^
+||ldoshbl.top^
 ||ldqtdd.peing.net^
 ||ldv.midoplay.com^
 ||ldvalc.manzara.cz^
@@ -27220,6 +27226,7 @@
 ||n0h56.site^
 ||n26-trusted.n26.com^
 ||n2faw.site^
+||n2wqmr4lmaummar.xyz^
 ||n3567.com^
 ||n4kb43cl2bsw.creatordrop.com^
 ||n522rv1.cn^
@@ -30043,6 +30050,7 @@
 ||qdvavs.trademax.se^
 ||qdzyspjx.com^
 ||qedlai.restplatzboerse.com^
+||qeedaa.xyz^
 ||qejjhnq.cn^
 ||qerpks.rollei.de^
 ||qescaen.com^
@@ -30539,6 +30547,7 @@
 ||recoverypoint.actonservice.com^
 ||recruit.go.apprenticeshipcommunity.com.au^
 ||recruiting.dukekunshan.edu.cn^
+||recs-api.conde.digital^
 ||recs.shareaholic.com^
 ||recsys-crawl.4paradigm.com^
 ||recv-entry.tbs.co.jp^
@@ -39427,6 +39436,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szddm.cn^
 ||szdgl.cn^
 ||szdpk.cn^
 ||szdtf.cn^
@@ -44991,6 +45001,7 @@
 ||vujzkkz.cn^
 ||vungle.com^
 ||vupload.duowan.com^
+||vupsnx.xyz^
 ||vutjnt.xyz^
 ||vuvnix.icu^
 ||vuvxpf.xyz^
@@ -47055,6 +47066,7 @@
 ||xrdqdd.xyz^
 ||xrkyqq.com^
 ||xrllybr.xyz^
+||xrmfjzqo.xyz^
 ||xrnyhc.arumdri.co.kr^
 ||xrnyhc.welltimes.co.kr^
 ||xrrhwgj.xyz^
