@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 00:07:54（北京时间）
+! Version: 2024-06-30 08:37:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48149
+! Total count: 48172
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -5236,6 +5236,8 @@
 ||advertisement.glb.qnniu.com^
 ||advertiseonbing.azureedge.net^
 ||advertising-api-eu.amazon.com^
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
 ||advertising.apple.com^
 ||advertising.twitter.com^
 ||advertising.yahoo.com^
@@ -6339,6 +6341,8 @@
 ||apcinfo.vertexstandard.com^
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apdfmhp.cn^
 ||ape-tagit.timeinc.net^
 ||apeagle.io^
@@ -8222,6 +8226,7 @@
 ||bdmjs.xywy.com^
 ||bdo.actonservice.com^
 ||bdoaustralia.bdo.com.au^
+||bdoshbv.top^
 ||bdpretc.cn^
 ||bdqzcj.micuento.com^
 ||bdrzxp.xyz^
@@ -8407,6 +8412,7 @@
 ||bi.irisdating.com^
 ||bi.medscape.com^
 ||biancitiao.com^
+||bianxian.com^
 ||biberukalap.com^
 ||bibglj.timberland.fr^
 ||bibi100.com^
@@ -8426,6 +8432,7 @@
 ||biiepofl.xyz^
 ||bijiangqing.com^
 ||bijkep.hotelesestelar.com^
+||bijmz.cn^
 ||bilahh.feuvert.fr^
 ||bilder11.markt.de^
 ||bilezdq.cn^
@@ -8566,6 +8573,7 @@
 ||blzayw.ticketsmarter.com^
 ||blzbjpg.xyz^
 ||blziha.intimissimi.com^
+||blzwvb.xyz^
 ||bm.h576.com^
 ||bmail.getventive.com^
 ||bmatgg18.xyz^
@@ -9159,6 +9167,7 @@
 ||c.arstechnica.com^
 ||c.autozen.tv^
 ||c.bazo.io^
+||c.bidtoolads.com^
 ||c.bigmir.net^
 ||c.booksir.com.cn^
 ||c.cintnetworks.com^
@@ -10318,6 +10327,12 @@
 ||confirm.ptvgroup.com^
 ||congtad.com^
 ||conimicutlighthouse.viessmann-us.com^
+||conn-service-cn-03.allawntech.com^
+||conn-service-cn-04.allawntech.com^
+||conn-service-cn-05.allawntech.com^
+||conn-service-in-03.allawnos.com^
+||conn-service-in-04.allawnos.com^
+||conn-service-in-05.allawnos.com^
 ||connect-qa.netapp.com^
 ||connect.abm.netapp.com^
 ||connect.acams.org^
@@ -10755,6 +10770,7 @@
 ||cq.hq1.influitive.com^
 ||cq9119.com^
 ||cqcktg.adlerwerbegeschenke.de^
+||cqcrci.xyz^
 ||cqemus.gartenhaus-gmbh.de^
 ||cqisam.xyz^
 ||cqishr.mobile.de^
@@ -11939,6 +11955,7 @@
 ||ddmfrg.modivo.bg^
 ||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
+||ddomjhr.icu^
 ||ddpaowanji.com^
 ||ddqkqq.com^
 ||ddqmlfu.icu^
@@ -16895,6 +16912,7 @@
 ||handerfix.com^
 ||handycam.alicdn.com^
 ||hangzhouhdb.top^
+||hanlanad.com^
 ||hanlinzhijia.net^
 ||hanwdsii.com^
 ||hanyingmall.cn^
@@ -19896,6 +19914,7 @@
 ||jiuduad.com^
 ||jiujiushishi.com^
 ||jiupaozi.com^
+||jiusudie.com^
 ||jivvjl.xyz^
 ||jixing.cc^
 ||jixmlx.xyz^
@@ -22021,6 +22040,7 @@
 ||listing-a8-itp.hello-storage.com^
 ||lists.ccmbg.com^
 ||lit.connatix.com^
+||litchiads.com^
 ||literally-analytics.appspot.com^
 ||liufenghua.com^
 ||liuhui111.top^
@@ -32164,6 +32184,7 @@
 ||sdk.duihuashijie.com^
 ||sdk.e.qq.com^
 ||sdk.hzsanjiaomao.com^
+||sdk.markmedia.com.cn^
 ||sdk.mobads.adwangmai.com^
 ||sdk.open.phone.igexin.com^
 ||sdk.pigqq.com/discover^
@@ -43770,6 +43791,7 @@
 ||tsrvrr.xyz^
 ||tst-link-ccontact.focuscura.com^
 ||tsvkfwth.xyz^
+||tsvrv.com^
 ||tsyndicate.com^
 ||tszoxhtk.xyz^
 ||tt.biquge.la^
@@ -46710,6 +46732,7 @@
 ||wxebye.aboutyou.hu^
 ||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
+||wximg.wxs.qq.com^
 ||wxl0gfw.icu^
 ||wxlagame.com^
 ||wxnxau.air-r.jp^

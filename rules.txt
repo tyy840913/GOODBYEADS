@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 00:07:54（北京时间）
+! Version: 2024-06-30 08:37:07（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83268
+! Total count: 83294
 
  
   
@@ -11101,6 +11101,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||speedtest.net^
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
+@@||sport.virgilio.it/js/web-vitals-evnt.25/web-vitals.attribution.js$script,domain=sport.virgilio.it
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
@@ -11175,6 +11176,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|rtl.de|vip.de
+@@||tecnologia.libero.it/js/dist.1/web-vitals.attribution.js$script,domain=tecnologia.libero.it
 @@||tennispro.eu/min/?$script,~third-party
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
@@ -27037,6 +27039,8 @@ zzzyk.com###Tinfo
 ||advertisement.glb.qnniu.com^
 ||advertiseonbing.azureedge.net^
 ||advertising-api-eu.amazon.com^
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
 ||advertising.
 ||advertising.apple.com^
 ||advertising.com^$third-party
@@ -28614,6 +28618,8 @@ zzzyk.com###Tinfo
 ||apcinfo.vertexstandard.com^
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
 ||apdfmhp.cn^
 ||ape-tagit.timeinc.net^
 ||apeagle.io^
@@ -31131,6 +31137,7 @@ zzzyk.com###Tinfo
 ||bdmjs.xywy.com^
 ||bdo.actonservice.com^
 ||bdoaustralia.bdo.com.au^
+||bdoshbv.top^
 ||bdp.cn^$third-party
 ||bdpretc.cn^
 ||bdqzcj.micuento.com^
@@ -31440,6 +31447,7 @@ zzzyk.com###Tinfo
 ||biancheng.net/uploads/ggxc/
 ||biancitiao.com^
 ||bianshengruanjian.com/tu/%E6%89%93%E8%B5%8F.
+||bianxian.com^
 ||bianxianmao.com^$third-party
 ||bianzhirensheng.com/img/banner.jpg
 ||bianzhirensheng.com/img/bianzhiji.jpg
@@ -31491,6 +31499,7 @@ zzzyk.com###Tinfo
 ||biiepofl.xyz^
 ||bijiangqing.com^
 ||bijkep.hotelesestelar.com^
+||bijmz.cn^
 ||biketo.com/d/file/p/
 ||bilahh.feuvert.fr^
 ||bilder11.markt.de^
@@ -31754,6 +31763,7 @@ zzzyk.com###Tinfo
 ||blzayw.ticketsmarter.com^
 ||blzbjpg.xyz^
 ||blziha.intimissimi.com^
+||blzwvb.xyz^
 ||bm.h576.com^
 ||bm.paypal.com/spd3TxHV/init.js
 ||bm23.com^$third-party
@@ -32575,6 +32585,7 @@ zzzyk.com###Tinfo
 ||c.arstechnica.com^
 ||c.autozen.tv^
 ||c.bazo.io^
+||c.bidtoolads.com^
 ||c.bigmir.net^
 ||c.booksir.com.cn^
 ||c.cintnetworks.com^
@@ -34597,6 +34608,12 @@ zzzyk.com###Tinfo
 ||confirmit.com/wix/inline.aspx?
 ||congtad.com^
 ||conimicutlighthouse.viessmann-us.com^
+||conn-service-cn-03.allawntech.com^
+||conn-service-cn-04.allawntech.com^
+||conn-service-cn-05.allawntech.com^
+||conn-service-in-03.allawnos.com^
+||conn-service-in-04.allawnos.com^
+||conn-service-in-05.allawnos.com^
 ||connatix.com/rtb/
 ||connatix.com/scripts/$~third-party
 ||connatix.com/tr/
@@ -35202,6 +35219,7 @@ zzzyk.com###Tinfo
 ||cq9119.com^
 ||cqcktg.adlerwerbegeschenke.de^
 ||cqcounter.com^$third-party
+||cqcrci.xyz^
 ||cqemus.gartenhaus-gmbh.de^
 ||cqisam.xyz^
 ||cqishr.mobile.de^
@@ -36655,6 +36673,7 @@ zzzyk.com###Tinfo
 ||ddmfrg.modivo.bg^
 ||ddnzpr.xyz^
 ||ddome-tag.blablacar.com^
+||ddomjhr.icu^
 ||ddooo.com/ddshow/$script
 ||ddpaowanji.com^
 ||ddqkqq.com^
@@ -43468,6 +43487,7 @@ zzzyk.com###Tinfo
 ||hanjutv2020.com/statics/skin/*/js/plus.js
 ||hanjutvn.com/template/alifun/js/Tmall/
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
+||hanlanad.com^
 ||hanlinzhijia.net^
 ||hannover-stadtplan.com/t.gif
 ||hanwdsii.com^
@@ -47700,6 +47720,7 @@ zzzyk.com###Tinfo
 ||jiuduad.com^
 ||jiujiushishi.com^
 ||jiupaozi.com^
+||jiusudie.com^
 ||jiuzhouav.com/top.js
 ||jivvjl.xyz^
 ||jixie.io^$third-party
@@ -49538,6 +49559,7 @@ zzzyk.com###Tinfo
 ||libero.it/cgi-bin/ajaxtrace?
 ||libero.it/cgi-bin/cdcounter.cgi?
 ||libero.it/cgi-bin/cdcountersp.cgi?
+||libero.it/cgi-bin/twit?
 ||libero.it/search/abin/ajaxtrace?
 ||libero.it^*/counter.php?
 ||libertyhomeequity.actonservice.com^
@@ -50542,6 +50564,7 @@ zzzyk.com###Tinfo
 ||listrakbi.com^$third-party
 ||lists.ccmbg.com^
 ||lit.connatix.com^
+||litchiads.com^
 ||literally-analytics.appspot.com^
 ||litix.io^$third-party
 ||littlebigsnake.com/event?
@@ -63732,6 +63755,7 @@ zzzyk.com###Tinfo
 ||sdk.hzsanjiaomao.com^
 ||sdk.jumpw.com/sdk/checkoutidentity
 ||sdk.look.360.cn/sdkv2/popconf?
+||sdk.markmedia.com.cn^
 ||sdk.mobads.adwangmai.com^
 ||sdk.open.phone.igexin.com^
 ||sdk.pigqq.com/discover^
@@ -77074,6 +77098,7 @@ zzzyk.com###Tinfo
 ||tsrvrr.xyz^
 ||tst-link-ccontact.focuscura.com^
 ||tsvkfwth.xyz^
+||tsvrv.com^
 ||tsyndicate.com^
 ||tszoxhtk.xyz^
 ||tt.biquge.la^
@@ -81102,6 +81127,7 @@ zzzyk.com###Tinfo
 ||wxebye.aboutyou.hu^
 ||wxfdmri.xyz^
 ||wxgmca.orthofeet.com^
+||wximg.wxs.qq.com^
 ||wxl0gfw.icu^
 ||wxlagame.com^
 ||wxnxau.air-r.jp^
