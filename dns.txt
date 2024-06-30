@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 16:08:18（北京时间）
+! Version: 2024-07-01 00:08:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48173
+! Total count: 48176
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -10826,6 +10826,7 @@
 ||crjeymh.cn^
 ||crjshop.com^
 ||crl.microsoft.com^
+||crlsxny.xyz^
 ||crm-analytics.imweb.ru^
 ||crm.casabaca.com^
 ||crm.ironmountain.com^
@@ -37354,6 +37355,7 @@
 ||ssdtour.com^
 ||ssestherssa.com^
 ||sseudorassb.com^
+||ssevt.com^
 ||ssfllp.actonservice.com^
 ||ssgg.chazidian.com^
 ||sshhfy.ray-ban.com^
@@ -40957,6 +40959,7 @@
 ||tmrhpl.nurse-agent.com^
 ||tms-st.cdn.ngenix.net^
 ||tms.53.com^
+||tms.danzz.ch^
 ||tms.dmp.wi-fi.ru^
 ||tms.eharmony.ca^
 ||tms.fmm.io^

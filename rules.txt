@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 16:08:18（北京时间）
+! Version: 2024-07-01 00:08:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83296
+! Total count: 83304
 
  
   
@@ -11132,6 +11132,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||stats.wnba.com/templates/angular/tables/events/$~third-party
 @@||staty.portalradiowy.pl/wstats/$script,third-party
+@@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
@@ -26081,6 +26082,7 @@ zzzyk.com###Tinfo
 ||academia.edu/record_hit
 ||academics.academicsuperstore.com^
 ||acadian-asset.actonservice.com^
+||acast.com/api/stats
 ||acbp0020171456.page.tl^
 ||acc-hd.de^$third-party
 ||acc-link-ccontact.focuscura.com^
@@ -35299,6 +35301,7 @@ zzzyk.com###Tinfo
 ||crjeymh.cn^
 ||crjshop.com^
 ||crl.microsoft.com^
+||crlsxny.xyz^
 ||crm-analytics.imweb.ru^
 ||crm-vwg.com/tracker/
 ||crm.casabaca.com^
@@ -36476,6 +36479,7 @@ zzzyk.com###Tinfo
 ||dataflow.biliapi.com^
 ||datafront.co^$third-party
 ||dataguru.cn/site_
+||datahub-srgssr.ch/tracking/
 ||datalayer.orange.fr^
 ||datam.com^$third-party
 ||datamilk.app^$third-party
@@ -43779,6 +43783,7 @@ zzzyk.com###Tinfo
 ||hentaicounter.com^$third-party
 ||henzanapp.com^
 ||henzhuan.com^
+||hepsiburada.com/api/track
 ||heraldandtimeslabs.com/sugar.js
 ||herbgreencolumn.com^
 ||heretrail.com^
@@ -69648,6 +69653,7 @@ zzzyk.com###Tinfo
 ||ssense.com/58Asv359/init.js
 ||ssestherssa.com^
 ||sseudorassb.com^
+||ssevt.com^
 ||ssfllp.actonservice.com^
 ||ssgdfs.com/kr/common/getPageIcfCd
 ||ssgg.chazidian.com^
@@ -73977,6 +73983,7 @@ zzzyk.com###Tinfo
 ||tmrhpl.nurse-agent.com^
 ||tms-st.cdn.ngenix.net^
 ||tms.53.com^
+||tms.danzz.ch^
 ||tms.delta.com/privacy/$image
 ||tms.dmp.wi-fi.ru^
 ||tms.eharmony.ca^
@@ -82245,6 +82252,7 @@ zzzyk.com###Tinfo
 ||ynzhby.com^
 ||ynztzh.com^$third-party
 ||yo.inbots.online^
+||yoast-schema-graph.com^$third-party
 ||yoc.younited-credit.com^
 ||yoda.kwd.inkuai.com^
 ||yofprpv.cn^
