@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 08:37:07（北京时间）
+! Version: 2024-06-30 16:08:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48172
+! Total count: 48173
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -706,6 +706,7 @@
 ||666bbb333bbb.com^
 ||666bbb888www.com^
 ||666ppp222ppp.com^
+||666ppp888ppp.com^
 ||6677648.reddoorz.com^
 ||668080.cc^
 ||668559.com^
@@ -17119,6 +17120,7 @@
 ||hghjks2.com^
 ||hgidskiu.top^
 ||hgjjk45.com^
+||hgngrf.xyz^
 ||hgpdoa.cn^
 ||hgthpj.xyz^
 ||hgxwhpba.xyz^
@@ -29288,6 +29290,7 @@
 ||pklujb.xyz^
 ||pkmvjx.my-store.ch^
 ||pknrnj.xyz^
+||pks-analytics.raenonx.cc^
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pkyjuc.cn^
@@ -47845,7 +47848,6 @@
 ||zf4.top^
 ||zfcdirf.icu^
 ||zfcoin.cn^
-||zfctrack.net^
 ||zffymmdg.com^
 ||zfjiu.com^
 ||zfmtyv.buzz^
@@ -47895,7 +47897,6 @@
 ||zhaoshang8.com^
 ||zhaozongqq.com^
 ||zhaweifeng.com^
-||zhctrack.net^
 ||zhcxvk.qvc.com^
 ||zhduni.rizap.jp^
 ||zhenbuka.com/gg^

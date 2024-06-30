@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-06-30 08:37:07（北京时间）
+! Version: 2024-06-30 16:08:18（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83294
+! Total count: 83296
 
  
   
@@ -21955,6 +21955,7 @@ zzzyk.com###Tinfo
 ||666bbb333bbb.com^
 ||666bbb888www.com^
 ||666ppp222ppp.com^
+||666ppp888ppp.com^
 ||6677648.reddoorz.com^
 ||668080.cc^
 ||668559.com^
@@ -43844,6 +43845,7 @@ zzzyk.com###Tinfo
 ||hghjks2.com^
 ||hgidskiu.top^
 ||hgjjk45.com^
+||hgngrf.xyz^
 ||hgpdoa.cn^
 ||hgthpj.xyz^
 ||hgxwhpba.xyz^
@@ -59731,6 +59733,7 @@ zzzyk.com###Tinfo
 ||pklujb.xyz^
 ||pkmvjx.my-store.ch^
 ||pknrnj.xyz^
+||pks-analytics.raenonx.cc^
 ||pktbag.flighthub.com^
 ||pktytp.membershop.lv^
 ||pkvs.com/public/300/
@@ -61513,6 +61516,7 @@ zzzyk.com###Tinfo
 ||radiotime.com/reports/
 ||radish-cake.xyz^
 ||raenonx.cc/api/analytics
+||raenonx.cc/api/usage
 ||rail.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||rainbownine.net^$third-party
 ||raindrop.io/pb/api/event
@@ -82789,7 +82793,6 @@ zzzyk.com###Tinfo
 ||zf4.top^
 ||zfcdirf.icu^
 ||zfcoin.cn^
-||zfctrack.net^
 ||zffymmdg.com^
 ||zfjiu.com^
 ||zfmtyv.buzz^
@@ -82847,7 +82850,6 @@ zzzyk.com###Tinfo
 ||zhaoshang8.com^
 ||zhaozongqq.com^
 ||zhaweifeng.com^
-||zhctrack.net^
 ||zhcxvk.qvc.com^
 ||zhduni.rizap.jp^
 ||zhenben.cc/2000/
