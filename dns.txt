@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-07-01 00:08:43（北京时间）
+! Version: 2024-07-01 08:38:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48176
+! Total count: 48181
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -4543,6 +4543,7 @@
 ||aciysf.destockage-fitness.com^
 ||ackcdn.net^
 ||aclordi.actonservice.com^
+||aclsx.cn^
 ||acodes.b2b.cn^
 ||acoossu.top^
 ||acq-au.americanexpress.com^
@@ -17457,6 +17458,7 @@
 ||htplayground.com^
 ||htqfxh.vuch.cz^
 ||htrace.wetvinfo.com^
+||htrurb.xyz^
 ||htseca.top^
 ||httpdns.bcelive.com^
 ||httpdns.browser.miui.com^
@@ -30157,6 +30159,7 @@
 ||qjurou.laredoute.com^
 ||qjxiyt.respect-shoes.ru^
 ||qkhhjm.autoscout24.nl^
+||qkikkg.xyz^
 ||qkscga.xyz^
 ||qkwsqq.com^
 ||ql.uzuzuz.com^
@@ -44638,6 +44641,7 @@
 ||varys.asongofzandc.xyz^
 ||vas-hl-x.snssdk.com^
 ||vatrack.hinet.net^
+||vatzxd.xyz^
 ||vazulp.graniph.com^
 ||vbdbmqzu.com^
 ||vbe.voyage-prive.be^
@@ -46987,6 +46991,7 @@
 ||xkbinj.xyz^
 ||xkddvf.gigantti.fi^
 ||xkdlqq.com^
+||xkesqbp.icu^
 ||xkfigjh.cn^
 ||xkidkt.edenbrothers.com^
 ||xkjmjj.com^

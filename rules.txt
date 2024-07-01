@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-07-01 00:08:43（北京时间）
+! Version: 2024-07-01 08:38:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83304
+! Total count: 83309
 
  
   
@@ -26149,6 +26149,7 @@ zzzyk.com###Tinfo
 ||aciysf.destockage-fitness.com^
 ||ackcdn.net^
 ||aclordi.actonservice.com^
+||aclsx.cn^
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
 ||acookie.*.gif?
@@ -44367,6 +44368,7 @@ zzzyk.com###Tinfo
 ||htqfxh.vuch.cz^
 ||htqyy.com/kiees/
 ||htrace.wetvinfo.com^
+||htrurb.xyz^
 ||htseca.top^
 ||httdev.it/e/c?
 ||httpcn.com/Images/banner
@@ -61056,6 +61058,7 @@ zzzyk.com###Tinfo
 ||qjxiyt.respect-shoes.ru^
 ||qk6.org/file/script/
 ||qkhhjm.autoscout24.nl^
+||qkikkg.xyz^
 ||qksapp.net/gif/
 ||qkscga.xyz^
 ||qkwsqq.com^
@@ -78250,6 +78253,7 @@ zzzyk.com###Tinfo
 ||vas-hl-x.snssdk.com^
 ||vast.com/vimpressions.js$third-party
 ||vatrack.hinet.net^
+||vatzxd.xyz^
 ||vazulp.graniph.com^
 ||vbanalytics.com^$third-party
 ||vbdbmqzu.com^
@@ -81516,6 +81520,7 @@ zzzyk.com###Tinfo
 ||xkd*.com/layer/layer.js
 ||xkddvf.gigantti.fi^
 ||xkdlqq.com^
+||xkesqbp.icu^
 ||xkfigjh.cn^
 ||xkidkt.edenbrothers.com^
 ||xkjmjj.com^
