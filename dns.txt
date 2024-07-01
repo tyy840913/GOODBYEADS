@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-07-01 16:10:38（北京时间）
+! Version: 2024-07-02 00:08:16（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48184
+! Total count: 48187
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -9498,6 +9498,7 @@
 ||cdgjxt.com^
 ||cdgtw3.guapaijia.com^
 ||cdhfvrug.xyz^
+||cdilm.cn^
 ||cdipsumf.top^
 ||cdjhcf.hometogo.es^
 ||cdkke.xyz^
@@ -17081,6 +17082,7 @@
 ||hello.trailblazers.com^
 ||hello.wellocution.com^
 ||hellogalaxy.cn^
+||heloisessa.com^
 ||helpdesk.thinkhdi.com^
 ||hemblx.vans.cl^
 ||hendehy.com^
@@ -44155,6 +44157,7 @@
 ||ui.service.belboon.com^
 ||ui37.net^
 ||ui8l2.xyz^
+||uiakq.top^
 ||uid.mdbchina.com^
 ||uid.mediacorp.sg^
 ||uidapi.com^
