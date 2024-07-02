@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-07-02 00:08:16（北京时间）
+! Version: 2024-07-02 08:33:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 83313
+! Total count: 83324
 
  
   
@@ -5614,6 +5614,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 /sxgg/12.js
 /sxgg/13
 /sygygg/*
+/symplr-analytics-
 /sync.gif?partner_
 /sync?visitor_id=
 /synd.aspx
@@ -27402,6 +27403,7 @@ zzzyk.com###Tinfo
 ||ajkjbcjbaaaed.com^
 ||ajo-zensar.adobesandbox.com^
 ||ajo1gdc.ajo1gdc.adobevlab.com^
+||ajoqu.cn^
 ||ajvzis.triumph.com^
 ||ak-br-cdn.kwai.net.iberostar.com^
 ||ak-d.tripcdn.com^
@@ -28753,6 +28755,7 @@ zzzyk.com###Tinfo
 ||api.tv.sohu.com^
 ||api.us.hismarttv.com^
 ||api.useragentswitcher.org/api/settingslist?data-wid
+||api.vk.com/method/statEvents.
 ||api.vp.rambler.ru/events/
 ||api.weibo.cn/2/cardlist?$replace=/promotion//
 ||api.weibo.cn/2/checkin^
@@ -33556,6 +33559,7 @@ zzzyk.com###Tinfo
 ||cjdby.net/Public/home/images/advImg/
 ||cjejjz.thelasthunt.com^
 ||cjfqtu.vitafy.ch^
+||cjgymo.xyz^
 ||cjjjs.com/image/banner/ali
 ||cjjjs.com/script/ad.js
 ||cjlekm.correiodopovo.com.br^
@@ -43676,6 +43680,7 @@ zzzyk.com###Tinfo
 ||hdsrc-a.akamaihd.net^
 ||hdtedar126.shop^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
+||hdtvnr.xyz^
 ||hdu-deeplinks.mindtickle.com^
 ||hdvsrz.xyz^
 ||hdxdhu.zumnorde.de^
@@ -75519,6 +75524,7 @@ zzzyk.com###Tinfo
 ||track.hg.healthgrades.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
+||track.hydro.online^
 ||track.inews.co.uk^
 ||track.info.cancertherapyadvisor.com^
 ||track.info.clinicaladvisor.com^
@@ -78671,6 +78677,11 @@ zzzyk.com###Tinfo
 ||vjrpnv.xyz^
 ||vjvj.vj24co.com^
 ||vjzjpt.xyz^
+||vk.com/al_video.php?act=ads_stat
+||vk.com/al_video.php?act=inc_view_counter
+||vk.com/al_video.php?act=live_heartbeat
+||vk.com/al_video.php?act=track_player_events
+||vk.com/al_video.php?act=watch_stat
 ||vk.com/js/lib/px.js
 ||vk.com/rtrg?
 ||vk.com/videostats.php

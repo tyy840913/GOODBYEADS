@@ -2,9 +2,9 @@
 ! Title: NOT-AD
 ! Homepage: https://github.com/tyy840913/NOT-AD
 ! Expires: 12 Hours
-! Version: 2024-07-02 00:08:16（北京时间）
+! Version: 2024-07-02 08:33:53（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 48187
+! Total count: 48191
 ||*.diwodiwo.xyz^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -5458,6 +5458,7 @@
 ||ajkjbcjbaaaed.com^
 ||ajo-zensar.adobesandbox.com^
 ||ajo1gdc.ajo1gdc.adobevlab.com^
+||ajoqu.cn^
 ||ajvzis.triumph.com^
 ||ak-br-cdn.kwai.net.iberostar.com^
 ||ak-d.tripcdn.com^
@@ -9732,6 +9733,7 @@
 ||cjcvd6.com^
 ||cjejjz.thelasthunt.com^
 ||cjfqtu.vitafy.ch^
+||cjgymo.xyz^
 ||cjlekm.correiodopovo.com.br^
 ||cjmob.com^
 ||cjndvoglik.xyz^
@@ -17021,6 +17023,7 @@
 ||hdsrc-a.akamaihd.net^
 ||hdtedar126.shop^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
+||hdtvnr.xyz^
 ||hdu-deeplinks.mindtickle.com^
 ||hdvsrz.xyz^
 ||hdxdhu.zumnorde.de^
@@ -42374,6 +42377,7 @@
 ||track.hg.healthgrades.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
+||track.hydro.online^
 ||track.inews.co.uk^
 ||track.info.cancertherapyadvisor.com^
 ||track.info.clinicaladvisor.com^
